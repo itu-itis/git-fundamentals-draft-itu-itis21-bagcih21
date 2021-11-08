@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub [HASAN TAHA BAĞCI, 150210338]
+# :wave: The Basics of GitHub [modified HASAN TAHA BAĞCI, 150210338]
 
 ## 🤓 Course overview and learning outcomes 
 
